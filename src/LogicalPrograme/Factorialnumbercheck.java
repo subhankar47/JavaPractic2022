@@ -10,6 +10,6 @@ public class Factorialnumbercheck {
         for (int i = 1; i <= no; i++) {
             fact = fact * i;
         }
-        System.out.println("factorial of "+no+" is: "+ fact);
+        System.out.println("factorial of " + no + " is: " + fact);
     }
 }
