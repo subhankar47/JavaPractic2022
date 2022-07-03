@@ -1,6 +1,6 @@
 package LogicalPrograme;
 
-public class Factorialnumbercheck {
+public class FactorialNumberCheck {
 
     public static void main(String[] args) {
         //!8= 8*7*6*5*4*3*2*1 = 40320

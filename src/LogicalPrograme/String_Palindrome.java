@@ -1,6 +1,6 @@
 package LogicalPrograme;
 
-public class Stringpalindrome {
+public class String_Palindrome {
     public static void main(String[] args) {
         String s = "java";
         String rev = "";

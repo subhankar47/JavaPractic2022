@@ -1,6 +1,6 @@
 package LogicalPrograme;
 
-public class Fibonancciseries {
+public class FibonancciSeries {
     public static void main(String[] args) {
         //It will start from 0
         //3rd Number always addition of last 2 number

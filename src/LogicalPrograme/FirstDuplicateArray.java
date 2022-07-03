@@ -1,6 +1,6 @@
 package LogicalPrograme;
 
-public class Checkfirstduplarray {
+public class FirstDuplicateArray {
 
     public static void main(String[] args) {
         int[] a = {2, 3, 9, 5, 5, 8, 9, 12, 17, 12};
