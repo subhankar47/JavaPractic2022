@@ -1,6 +1,6 @@
 package LogicalPrograme;
 
-public class RecerseString {
+public class ReverseString {
     public static void main(String[] args) {
         String s = "raknahbuS";
         String rev = "";
