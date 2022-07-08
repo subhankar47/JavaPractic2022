@@ -2,22 +2,17 @@ package LogicalPrograme;
 
 public class CountNo_OfWord_String {
 
-    // Function to count total number
-    // of words in the string
+    // Function to count total number of words in the string
     public static int countWords(String str) {
 
-        // Check if the string is null
-        // or empty then return zero
+        // Check if the string is null or empty then return zero
         if (str == null || str.isEmpty())
             return 0;
 
-        // Splitting the string around
-        // matches of the given regular
-        // expression
+        // Splitting the string around matches of the given regular expression
         String[] words = str.split("\\s+");
 
-        // Return number of words
-        // in the given string
+        // Return number of words in the given string
         return words.length;
     }
 
