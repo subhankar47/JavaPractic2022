@@ -9,8 +9,7 @@ public class SplitString {
         String[] s = str.split(",");
         System.out.println("No of value in s=" + " " + s.length);
         for (int i = 0; i < s.length; i++) {
-            if (s[i].equalsIgnoreCase("bond"))
-                System.out.println(s[i]);
+            System.out.println(s[i]);
         }
     }
 }
