@@ -1,6 +1,6 @@
 package Collection;
 
-public class BubbleSort {
+public class BubbleSortInteger {
     public static void main(String[] args) {
         int[] a = {36, 19, 29, 12, 5};
         int temp;
