@@ -1,4 +1,4 @@
-package LogicalPrograme;
+package Collection;
 
 public class FirstDuplicateArray {
 

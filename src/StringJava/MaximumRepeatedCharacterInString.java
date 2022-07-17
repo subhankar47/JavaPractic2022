@@ -1,4 +1,4 @@
-package LogicalPrograme;
+package StringJava;
 
 public class MaximumRepeatedCharacterInString {
     public static void main(String[] args) {

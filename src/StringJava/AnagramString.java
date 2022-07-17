@@ -1,4 +1,4 @@
-package LogicalPrograme;
+package StringJava;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;

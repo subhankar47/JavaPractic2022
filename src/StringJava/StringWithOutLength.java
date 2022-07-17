@@ -1,4 +1,4 @@
-package LogicalPrograme;
+package StringJava;
 
 import java.nio.charset.StandardCharsets;
 import java.util.regex.Matcher;

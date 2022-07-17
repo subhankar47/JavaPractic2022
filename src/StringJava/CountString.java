@@ -1,4 +1,4 @@
-package LogicalPrograme;
+package StringJava;
 
 public class CountString {
     public static void main(String[] args) {

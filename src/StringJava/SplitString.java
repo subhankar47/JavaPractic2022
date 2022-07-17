@@ -1,4 +1,4 @@
-package LogicalPrograme;
+package StringJava;
 
 public class SplitString {
 
